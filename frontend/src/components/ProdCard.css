@@ -1,0 +1,9 @@
+.prodcard{
+    display: flex;
+    flex-direction: row;
+}
+
+.prodcard img{
+    height: 80%;
+    width: 20%;
+}

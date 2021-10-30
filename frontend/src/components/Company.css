@@ -1,0 +1,25 @@
+.company{
+    margin: 2rem;
+    text-align: center;
+}
+
+.links{
+    margin-top: 3rem;
+}
+
+.list-group{
+    margin: auto;
+    text-align: center;
+    max-width: 30%;
+    border-radius: .2rem;
+}
+
+.list-group-item{
+    height: 4rem;
+    transition: .2s ease-in-out;
+}
+
+.list-group-item:hover{
+    background-color: #053742;
+    color: white;
+}
